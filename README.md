@@ -1,5 +1,3 @@
-# DecisionTreePractice
-
 # Decision Tree Practice - Graduate Admission Prediction
 
 Bu proje, bir öğrencinin akademik verilerini kullanarak lisansüstü eğitim başvurularında üniversite kabul alma olasılığını tahmin eden bir **Makine Öğrenmesi (Machine Learning)** çalışmasıdır.
